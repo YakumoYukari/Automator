@@ -1,0 +1,16 @@
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\bin\Debug\AutomatorTest.exe.config
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\bin\Debug\AutomatorTest.exe
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\bin\Debug\AutomatorTest.pdb
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\bin\Debug\Automator.dll
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\bin\Debug\WindowsInput.dll
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\bin\Debug\Automator.pdb
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\bin\Debug\WindowsInput.xml
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\obj\Debug\AutomatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\obj\Debug\AutomatorTest.Form1.resources
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\obj\Debug\AutomatorTest.Properties.Resources.resources
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\obj\Debug\AutomatorTest.csproj.GenerateResource.Cache
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\obj\Debug\AutomatorTest.exe
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\obj\Debug\AutomatorTest.pdb
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\bin\Debug\Emgu.CV.dll
+C:\Users\Lukez_000\Documents\Visual Studio 2013\Projects\Automator\AutomatorTest\bin\Debug\Emgu.Util.dll
